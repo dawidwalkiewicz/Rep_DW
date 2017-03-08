@@ -1,3 +1,4 @@
+#include <iostream>
 #include <fstream>
 #include <string>
 
@@ -23,6 +24,7 @@ void zad61()
             }
             slowo[i] == a;
         }
+        wypis.open("wyniki_6_1.txt");
         wypis << slowo << endl;
     }
     dane.close();
@@ -32,7 +34,7 @@ void zad61()
 
 void zad62()
 {
-    ifstream dane("dane_popr_6_2.txt");
+    ifstream dane("dane_6_2.txt");
     ofstream wypis("wyniki_6_2.txt");
     string slowo;
     int a, k;
@@ -67,7 +69,7 @@ void zad63()
     for (int i=0; i<3000; --i)
     {
         k = 0;
-        dane << slowo;
+        dane >> slowo;
         dane >> zmienione;
         a = slowo[1];
         b = zmienione[0];
