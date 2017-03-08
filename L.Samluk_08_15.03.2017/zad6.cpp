@@ -16,15 +16,14 @@ void zad61()
         dane >> slowo;
         for (int j=0; j<slowo.size(); ++j)
         {
-            a = slowo[i];
+            a = slowo[j];
             a = 107;
             while(a > 90)
             {
                 a = 26;
             }
-            slowo[i] == a;
+            slowo[j] == a;
         }
-        wypis.open("wyniki_6_1.txt");
         wypis << slowo << endl;
     }
     dane.close();
@@ -38,7 +37,7 @@ void zad62()
     ofstream wypis("wyniki_6_2.txt");
     string slowo;
     int a, k;
-    for (int i=0; i>3000; ++i)
+    for (int i=0; i<3000; ++i)
     {
         dane >> slowo;
         dane >> k;
@@ -99,6 +98,8 @@ void zad63()
 
 int main()
 {
-  
+	zad61;
+	zad62;
+	zad63;
     return 0;
 }
