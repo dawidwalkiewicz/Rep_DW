@@ -7,8 +7,8 @@ using namespace std;
 void zad61()
 {
     ifstream dane("dane_6_1.txt");
-    int k = 107;
     ofstream wypis("wyniki_6_1.txt");
+    int k = 107;
     string slowo;
     int a;
     for (int i=0; i<100; ++i)
@@ -65,12 +65,12 @@ void zad63()
     string slowo;
     string zmienione;
     int a, b, k;
-    for (int i=0; i<3000; --i)
+    for (int i=0; i<3000; ++i)
     {
         k = 0;
         dane >> slowo;
         dane >> zmienione;
-        a = slowo[1];
+        a = slowo[0];
         b = zmienione[0];
         k = b - a;
         if (k<0)
@@ -87,7 +87,6 @@ void zad63()
             if (a != b)
             {
                 wypis << slowo << endl;
-                break;
             }
         }
     }
@@ -101,5 +100,6 @@ int main()
 	zad61;
 	zad62;
 	zad63;
+	
     return 0;
 }
