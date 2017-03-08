@@ -17,12 +17,12 @@ void zad61()
         for (int j=0; j<slowo.size(); ++j)
         {
             a = slowo[j];
-            a = 107;
+            a += 107;
             while(a > 90)
             {
-                a = 26;
+                a -= 26;
             }
-            slowo[j] == a;
+            slowo[j] = a;
         }
         wypis << slowo << endl;
     }
@@ -33,7 +33,7 @@ void zad61()
 
 void zad62()
 {
-    ifstream dane("dane_6_2.txt");
+    ifstream dane("dane_popr_6_2.txt");
     ofstream wypis("wyniki_6_2.txt");
     string slowo;
     int a, k;
@@ -43,13 +43,13 @@ void zad62()
         dane >> k;
         for (int j=0; j<slowo.size(); ++j)
         {
-            a = slowo[i];
+            a = slowo[j];
             a -= k;
             while (a < 65)
             {
                 a += 26;
             }
-            slowo[i] = a;
+            slowo[j] = a;
         }
         wypis << slowo << endl;
     }
@@ -80,13 +80,14 @@ void zad63()
             a = slowo[j];
             b = zmienione[j];
             a += k;
-            while(a < 90)
+            while(a > 90)
             {
                 a -= 26;
             }
             if (a != b)
             {
                 wypis << slowo << endl;
+                break;
             }
         }
     }
@@ -97,9 +98,10 @@ void zad63()
 
 int main()
 {
-	zad61;
-	zad62;
-	zad63;
+	zad61();
+	zad62();
+	zad63();
 	
+	system("PAUSE");
     return 0;
 }
