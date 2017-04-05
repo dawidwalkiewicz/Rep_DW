@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ListaKlubow>
+  <Klub ID="1">
+    <Nazwa_klubu>Chojniczanka</Nazwa_klubu>
+    <Miasto>Chojnice</Miasto>
+    <Adres>
+      Adama Mickiewicza 12
+      89-600 Chojnice
+    </Adres>
+    <Strona_internetowa>
+      <u>mkschojniczanka.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1930</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion MKS Chojniczanka
+      </Nazwa_stadionu>
+      <Pojemność>
+        3 000
+      </Pojemność>
+      <Adres_stadionu>
+        Adama Mickiewicza 12
+        89-600 Chojnice
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="2">
+    <Nazwa_klubu>Chrobry</Nazwa_klubu>
+    <Miasto>Głogów</Miasto>
+    <Adres>
+      Rudnowska 17B
+      67-200 Głogów
+    </Adres>
+    <Strona_internetowa>
+      <u>www.chrobry-glogow.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1957</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Głogowie
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 817
+      </Pojemność>
+      <Adres_stadionu>
+        Wita Stwosza 3
+        67-200 Głogów
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="3">
+    <Nazwa_klubu>Drutex-Bytovia</Nazwa_klubu>
+    <Miasto>Bytów</Miasto>
+    <Adres>
+      Adama Mickiewicza 13
+      77-100 Bytów
+    </Adres>
+    <Strona_internetowa>
+      <u>www.drutexbytovia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1946</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 043
+      </Pojemność>
+      <Adres_stadionu>
+        Adama Mickiewicza 13
+        77-100 Bytów
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="4">
+    <Nazwa_klubu>GKS</Nazwa_klubu>
+    <Miasto>Katowice</Miasto>
+    <Adres>
+      Bukowa 1
+      40-108 Katowice
+    </Adres>
+    <Strona_internetowa>
+      <u>gkskatowice.eu</u>
+    </Strona_internetowa>
+    <Rok_założenia>1964</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion GKS Katowice
+      </Nazwa_stadionu>
+      <Pojemność>
+        6 710
+      </Pojemność>
+      <Adres_stadionu>
+        Bukowa 1
+        40-108 Katowice
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="5">
+    <Nazwa_klubu>GKS</Nazwa_klubu>
+    <Miasto>Tychy</Miasto>
+    <Adres>
+      Edukacji 7
+      43-100 Tychy
+    </Adres>
+    <Strona_internetowa>
+      <u>www.gkstychy.info</u>
+    </Strona_internetowa>
+    <Rok_założenia>1971</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Tychach
+      </Nazwa_stadionu>
+      <Pojemność>
+        15 150
+      </Pojemność>
+      <Adres_stadionu>
+        Edukacji 7
+        43-100 Tychy
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="6">
+    <Nazwa_klubu>Górnik</Nazwa_klubu>
+    <Miasto>Zabrze</Miasto>
+    <Adres>
+      Franklina Delano Roosevelta 81
+      41-800 Zabrze
+    </Adres>
+    <Strona_internetowa>
+      <u>gornikzabrze.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1948</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. Ernesta Pohla
+        (Arena Zabrze)
+      </Nazwa_stadionu>
+      <Pojemność>
+        24 563
+      </Pojemność>
+      <Adres_stadionu>
+        Franklina Delano Roosevelta 81
+        41-800 Zabrze
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="7">
+    <Nazwa_klubu>Miedź</Nazwa_klubu>
+    <Miasto>Legnica</Miasto>
+    <Adres>
+      Hetmańska 2
+      59-220 Legnica
+    </Adres>
+    <Strona_internetowa>
+      <u>miedzlegnica.eu</u>
+    </Strona_internetowa>
+    <Rok_założenia>1971</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. Orła Białego
+      </Nazwa_stadionu>
+      <Pojemność>
+        6 194
+      </Pojemność>
+      <Adres_stadionu>
+        Aleja Orła Białego 1
+        59-200 Legnica
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="8">
+    <Nazwa_klubu>MKS</Nazwa_klubu>
+    <Miasto>Kluczbork</Miasto>
+    <Adres>
+      Sportowa 7
+      46-200 Kluczbork
+    </Adres>
+    <Strona_internetowa>
+      <u>www.mkskluczbork.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>2003</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Kluczborku
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 586
+      </Pojemność>
+      <Adres_stadionu>
+        Sportowa 7
+        46-200 Kluczbork
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="9">
+    <Nazwa_klubu>Olimpia</Nazwa_klubu>
+    <Miasto>Grudziądz</Miasto>
+    <Adres>
+      Marszałka Józefa Piłsudskiego 14
+      86-300 Grudziądz
+    </Adres>
+    <Strona_internetowa>
+      <u>gksolimpia.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1923</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski im. Bronisława Malinowskiego
+      </Nazwa_stadionu>
+      <Pojemność>
+        5 323
+      </Pojemność>
+      <Adres_stadionu>
+        Marszałka Józefa Piłsudskiego 14
+        86-300 Grudziądz
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="10">
+    <Nazwa_klubu>Podbeskidzie</Nazwa_klubu>
+    <Miasto>Bielsko-Biała</Miasto>
+    <Adres>
+      Widok 12
+      43-300 Bielsko-Biała
+    </Adres>
+    <Strona_internetowa>
+      <u>www.tspodbeskidzie.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1997</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Bielsku-Białej
+      </Nazwa_stadionu>
+      <Pojemność>
+        15 292
+      </Pojemność>
+      <Adres_stadionu>
+        Tadeusza Rychlińskiego 19
+        43-300 Bielsko-Biała
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="11">
+    <Nazwa_klubu>Pogoń</Nazwa_klubu>
+    <Miasto>Siedlce</Miasto>
+    <Adres>
+      Jana Pawła II 6
+      08-110 Siedlce
+    </Adres>
+    <Strona_internetowa>
+      <u>mkppogonsiedlce.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1944</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion ROSRRiT w Siedlcach
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 901
+      </Pojemność>
+      <Adres_stadionu>
+        Jana Pawła II 6
+        08-110 Siedlce
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="12">
+    <Nazwa_klubu>Sandecja</Nazwa_klubu>
+    <Miasto>Nowy Sącz</Miasto>
+    <Adres>
+      Jana Kilińskiego 47
+      33-300 Nowy Sącz
+    </Adres>
+    <Strona_internetowa>
+      <u>www.sandecja.com.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1910</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. Ojca Władysława Augustynka
+      </Nazwa_stadionu>
+      <Pojemność>
+        5 000
+      </Pojemność>
+      <Adres_stadionu>
+        Jana Kilińskiego 47
+        33-300 Nowy Sącz
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="13">
+    <Nazwa_klubu>Stal</Nazwa_klubu>
+    <Miasto>Mielec</Miasto>
+    <Adres>
+      Ludwika Solskiego 1
+      39-300 Mielec
+    </Adres>
+    <Strona_internetowa>
+      <u>stalmielec.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1939</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Stali Mielec
+      </Nazwa_stadionu>
+      <Pojemność>
+        6 864
+      </Pojemność>
+      <Adres_stadionu>
+        Ludwika Solskiego 1
+        39-300 Mielec
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="14">
+    <Nazwa_klubu>Stomil</Nazwa_klubu>
+    <Miasto>Olsztyn</Miasto>
+    <Adres>
+      Aleja Marszałka Józefa Piłsudskiego 69a
+      10-596 Olsztyn
+    </Adres>
+    <Strona_internetowa>
+      <u>stomilolsztyn.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion OSiR w Olsztynie
+      </Nazwa_stadionu>
+      <Pojemność>
+        3 600
+      </Pojemność>
+      <Adres_stadionu>
+        Aleja Marszałka Józefa Piłsudskiego 69a
+        10-596 Olsztyn
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="15">
+    <Nazwa_klubu>Wigry</Nazwa_klubu>
+    <Miasto>Suwałki</Miasto>
+    <Adres>
+      Zarzecze 26
+      16-400 Suwałki
+    </Adres>
+    <Strona_internetowa>
+      <u>wigrysuwalki.eu</u>
+    </Strona_internetowa>
+    <Rok_założenia>1947</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Suwałkach
+      </Nazwa_stadionu>
+      <Pojemność>
+        3 000
+      </Pojemność>
+      <Adres_stadionu>
+        Zarzecze 26
+        16-400 Suwałki
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="16">
+    <Nazwa_klubu>Wisła</Nazwa_klubu>
+    <Miasto>Puławy</Miasto>
+    <Adres>
+      Batalionów Chłopskich 3
+      24-100 Puławy
+    </Adres>
+    <Strona_internetowa>
+      <u>www.kswislapulawy.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1923</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion MOSiR w Puławach
+      </Nazwa_stadionu>
+      <Pojemność>
+        4 418
+      </Pojemność>
+      <Adres_stadionu>
+        Józefa Hauke-Bossaka 1
+        24-100 Puławy
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="17">
+    <Nazwa_klubu>Zagłębie</Nazwa_klubu>
+    <Miasto>Sosnowiec</Miasto>
+    <Adres>
+      Kresowa 1
+      41-200 Sosnowiec
+    </Adres>
+    <Strona_internetowa>
+      <u>zaglebie.eu</u>
+    </Strona_internetowa>
+    <Rok_założenia>1906</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Ludowy
+      </Nazwa_stadionu>
+      <Pojemność>
+        4 950
+      </Pojemność>
+      <Adres_stadionu>
+        Kresowa 1
+        41-200 Sosnowiec
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="18">
+    <Nazwa_klubu>Znicz</Nazwa_klubu>
+    <Miasto>Pruszków</Miasto>
+    <Adres>
+      Bohaterów Warszawy 4
+      05-800 Pruszków
+    </Adres>
+    <Strona_internetowa>
+      <u>www.zniczpruszkow.com.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1923</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion MZOS w Pruszkowie
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 500
+      </Pojemność>
+      <Adres_stadionu>
+        Bohaterów Warszawy 4
+        05-800 Pruszków
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+</ListaKlubow>

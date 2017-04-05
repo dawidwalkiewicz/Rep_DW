@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ListaKlubow>
+  <Klub ID="1">
+    <Nazwa_klubu>Arka</Nazwa_klubu>
+    <Miasto>Gdynia</Miasto>
+    <Adres>
+      Olimpijska 5/9
+      81-538 Gdynia
+    </Adres>
+    <Strona_internetowa>
+      <u>www.arka.gdynia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1929</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Gdyni
+      </Nazwa_stadionu>
+      <Pojemność>
+        15 139
+      </Pojemność>
+      <Adres_stadionu>
+        Olimpijska 5/9
+        81-538 Gdynia
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="2">
+    <Nazwa_klubu>Bruk-Bet Termalica</Nazwa_klubu>
+    <Miasto>Nieciecza</Miasto>
+    <Adres>
+      Nieciecza 150
+      33-240 Żabno
+    </Adres>
+    <Strona_internetowa>
+      <u>www.termalica.brukbet.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1922</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Bruk-Bet
+      </Nazwa_stadionu>
+      <Pojemność>
+        4 595
+      </Pojemność>
+      <Adres_stadionu>
+        Nieciecza 150
+        33-240 Żabno
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="3">
+    <Nazwa_klubu>Cracovia</Nazwa_klubu>
+    <Miasto>Kraków</Miasto>
+    <Adres>
+      Wielicka 101
+      30-552 Kraków
+    </Adres>
+    <Strona_internetowa>
+      <u>www.cracovia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1906</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Cracovii im. Marszałka Józefa Piłsudskiego
+      </Nazwa_stadionu>
+      <Pojemność>
+        14 941
+      </Pojemność>
+      <Adres_stadionu>
+        ks. Józefa Kałuży 1
+        30-111 Kraków
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="4">
+    <Nazwa_klubu>Górnik</Nazwa_klubu>
+    <Miasto>Łęczna</Miasto>
+    <Adres>
+      Aleja Jana Pawła II 13
+      21-010 Łęczna
+    </Adres>
+    <Strona_internetowa>
+      <u>www.gornik.leczna.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1979</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Arena Lublin
+      </Nazwa_stadionu>
+      <Pojemność>
+        15 300
+      </Pojemność>
+      <Adres_stadionu>
+        Stadionowa 1
+        20-001 Lublin
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="5">
+    <Nazwa_klubu>Jagiellonia</Nazwa_klubu>
+    <Miasto>Białystok</Miasto>
+    <Adres>
+      Legionowa 28/702
+      15-281 Białystok
+    </Adres>
+    <Strona_internetowa>
+      <u>www.jagiellonia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1920</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Białymstoku
+      </Nazwa_stadionu>
+      <Pojemność>
+        22 386
+      </Pojemność>
+      <Adres_stadionu>
+        Słoneczna 1
+        15-281 Białystok
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="6">
+    <Nazwa_klubu>Korona</Nazwa_klubu>
+    <Miasto>Kielce</Miasto>
+    <Adres>
+      ks. Piotra Ściegiennego 8
+      25-033 Kielce
+    </Adres>
+    <Strona_internetowa>
+      <u>www.korona-kielce.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1973</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Kolporter Arena
+      </Nazwa_stadionu>
+      <Pojemność>
+        15 500
+      </Pojemność>
+      <Adres_stadionu>
+        ks. Piotra Ściegiennego 8
+        25-033 Kielce
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="7">
+    <Nazwa_klubu>Lech</Nazwa_klubu>
+    <Miasto>Poznań</Miasto>
+    <Adres>
+      Bułgarska 17
+      60-320 Poznań
+    </Adres>
+    <Strona_internetowa>
+      <u>www.lechpoznan.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1922</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        INEA Stadion
+      </Nazwa_stadionu>
+      <Pojemność>
+        41 609
+      </Pojemność>
+      <Adres_stadionu>
+        Bułgarska 17
+        60-320 Poznań
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="8">
+    <Nazwa_klubu>Lechia</Nazwa_klubu>
+    <Miasto>Gdańsk</Miasto>
+    <Adres>
+      Pokoleń Lechii Gdańsk 1
+      80-560 Gdańsk
+    </Adres>
+    <Strona_internetowa>
+      <u>www.lechia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Energa Gdańsk
+      </Nazwa_stadionu>
+      <Pojemność>
+        41 620
+      </Pojemność>
+      <Adres_stadionu>
+        Pokoleń Lechii Gdańsk 1
+        80-560 Gdańsk
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="9">
+    <Nazwa_klubu>Legia</Nazwa_klubu>
+    <Miasto>Warszawa</Miasto>
+    <Adres>
+      Łazienkowska 3
+      00-449 Warszawa
+    </Adres>
+    <Strona_internetowa>
+      <u>legia.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1916</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Wojska Polskiego
+      </Nazwa_stadionu>
+      <Pojemność>
+        30 805
+      </Pojemność>
+      <Adres_stadionu>
+        Łazienkowska 3
+        00-449 Warszawa
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="10">
+    <Nazwa_klubu>Piast</Nazwa_klubu>
+    <Miasto>Gliwice</Miasto>
+    <Adres>
+      Stefana Okrzei 20
+      44-100 Gliwice
+    </Adres>
+    <Strona_internetowa>
+      <u>piast-gliwice.eu</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Gliwicach
+      </Nazwa_stadionu>
+      <Pojemność>
+        9 913
+      </Pojemność>
+      <Adres_stadionu>
+        Stefana Okrzei 20
+        44-100 Gliwice
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="11">
+    <Nazwa_klubu>Pogoń</Nazwa_klubu>
+    <Miasto>Szczecin</Miasto>
+    <Adres>
+      Mieczysława Karłowicza 28
+      71-102 Szczecin
+    </Adres>
+    <Strona_internetowa>
+      <u>www.pogonszczecin.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1948</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. Floriana Krygiera
+      </Nazwa_stadionu>
+      <Pojemność>
+        18 027
+      </Pojemność>
+      <Adres_stadionu>
+        Mieczysława Karłowicza 28
+        71-102 Szczecin
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="12">
+    <Nazwa_klubu>Ruch</Nazwa_klubu>
+    <Miasto>Chorzów</Miasto>
+    <Adres>
+      Cicha 6
+      41-506 Chorzów
+    </Adres>
+    <Strona_internetowa>
+      <u>ruchchorzow.com.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1920</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Ruchu Chorzów
+      </Nazwa_stadionu>
+      <Pojemność>
+        9 100
+      </Pojemność>
+      <Adres_stadionu>
+        Cicha 6
+        41-506 Chorzów
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="13">
+    <Nazwa_klubu>Śląsk</Nazwa_klubu>
+    <Miasto>Wrocław</Miasto>
+    <Adres>
+      Oporowska 62
+      53-434 Wrocław
+    </Adres>
+    <Strona_internetowa>
+      <u>www.slaskwroclaw.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1947</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski we Wrocławiu
+      </Nazwa_stadionu>
+      <Pojemność>
+        42 771
+      </Pojemność>
+      <Adres_stadionu>
+        Aleja Śląska 1
+        54-118 Wrocław
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="14">
+    <Nazwa_klubu>Wisła</Nazwa_klubu>
+    <Miasto>Kraków</Miasto>
+    <Adres>
+      Władysława Reymonta 20
+      30-059 Kraków
+    </Adres>
+    <Strona_internetowa>
+      <u>wisla.krakow.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1906</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski im. Henryka Reymanna
+      </Nazwa_stadionu>
+      <Pojemność>
+        33 127
+      </Pojemność>
+      <Adres_stadionu>
+        Władysława Reymonta 20
+        30-059 Kraków
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="15">
+    <Nazwa_klubu>Wisła</Nazwa_klubu>
+    <Miasto>Płock</Miasto>
+    <Adres>
+      Ignacego Łukasiewicza 34
+      09-400 Płock
+    </Adres>
+    <Strona_internetowa>
+      <u>www.wisla.plock.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1947</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. Kazimierza Górskiego
+      </Nazwa_stadionu>
+      <Pojemność>
+        10 000
+      </Pojemność>
+      <Adres_stadionu>
+        Ignacego Łukasiewicza 34
+        09-400 Płock
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="16">
+    <Nazwa_klubu>Zagłębie</Nazwa_klubu>
+    <Miasto>Lubin</Miasto>
+    <Adres>
+      Marii Skłodowskiej-Curie 98
+      59-301 Lubin
+    </Adres>
+    <Strona_internetowa>
+      <u>zaglebie.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1946</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Zagłębia
+      </Nazwa_stadionu>
+      <Pojemność>
+        16 068
+      </Pojemność>
+      <Adres_stadionu>
+        Marii Skłodowskiej-Curie 98
+        59-301 Lubin
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+</ListaKlubow>

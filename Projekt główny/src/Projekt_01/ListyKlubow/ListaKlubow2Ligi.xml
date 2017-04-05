@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ListaKlubow>
+  <Klub ID="1">
+    <Nazwa_klubu>Błękitni</Nazwa_klubu>
+    <Miasto>Stargard</Miasto>
+    <Adres>
+      Ceglana 1
+      73-110 Stargard
+    </Adres>
+    <Strona_internetowa>
+      <u>blekitni.stargard.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Stargardzie
+      </Nazwa_stadionu>
+      <Pojemność>
+        6 000
+      </Pojemność>
+      <Adres_stadionu>
+        Ceglana 1
+        73-110 Stargard
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="2">
+    <Nazwa_klubu>GKS</Nazwa_klubu>
+    <Miasto>Bełchatów</Miasto>
+    <Adres>
+      Sportowa 3
+      97-400 Bełchatów
+    </Adres>
+    <Strona_internetowa>
+      <u>gksbelchatow.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1977</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        GIEKSA Arena
+      </Nazwa_stadionu>
+      <Pojemność>
+        5 264
+      </Pojemność>
+      <Adres_stadionu>
+        Sportowa 3
+        97-400 Bełchatów
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="3">
+    <Nazwa_klubu>Gryf</Nazwa_klubu>
+    <Miasto>Wejcherowo</Miasto>
+    <Adres>
+      Wzgórze Wolności 1
+      84-200 Wejherowo
+    </Adres>
+    <Strona_internetowa>
+      <u>www.gryfwejherowo.com.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1921</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion WKS Gryf Wejherowo
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 500
+      </Pojemność>
+      <Adres_stadionu>
+        Wzgórze Wolności 1
+        84-200 Wejherowo
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="4">
+    <Nazwa_klubu>Kotwica</Nazwa_klubu>
+    <Miasto>Kołobrzeg</Miasto>
+    <Adres>
+      ppor. Józefa Śliwińskiego 10
+      78-100 Kołobrzeg
+    </Adres>
+    <Strona_internetowa>
+      <u>www.mkpkotwica.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1946</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski im. Sebastiana Karpiniuka
+      </Nazwa_stadionu>
+      <Pojemność>
+        3 014
+      </Pojemność>
+      <Adres_stadionu>
+        ppor. Józefa Śliwińskiego 10
+        78-100 Kołobrzeg
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="5">
+    <Nazwa_klubu>KS Legionovia</Nazwa_klubu>
+    <Miasto>Legionowo</Miasto>
+    <Adres>
+      Parkowa 27a
+      05-120 Legionowo
+    </Adres>
+    <Strona_internetowa>
+      <u>www.kslegionovia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1930</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. ks. płk. Jana Mrugacza w Legionowie
+      </Nazwa_stadionu>
+      <Pojemność>
+        1 730
+      </Pojemność>
+      <Adres_stadionu>
+        Parkowa 27a
+        05-120 Legionowo
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="6">
+    <Nazwa_klubu>Odra</Nazwa_klubu>
+    <Miasto>Opole</Miasto>
+    <Adres>
+      Oleska 51
+      45-231 Opole
+    </Adres>
+    <Strona_internetowa>
+      <u>www.oksodraopole.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Odry Opole
+      </Nazwa_stadionu>
+      <Pojemność>
+        4 560
+      </Pojemność>
+      <Adres_stadionu>
+        Oleska 51
+        45-231 Opole
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="7">
+    <Nazwa_klubu>Olimpia</Nazwa_klubu>
+    <Miasto>Elbląg</Miasto>
+    <Adres>
+      Agrykola 8
+      82-300 Elbląg
+    </Adres>
+    <Strona_internetowa>
+      <u>olimpia.elblag.com.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Elblągu
+      </Nazwa_stadionu>
+      <Pojemność>
+        3 000
+      </Pojemność>
+      <Adres_stadionu>
+        Agrykola 8
+        82-300 Elbląg
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="8">
+    <Nazwa_klubu>Olimpia</Nazwa_klubu>
+    <Miasto>Zambrów</Miasto>
+    <Adres>
+      kard. Stefana Wyszyńskiego 8
+      18-300 Zambrów
+    </Adres>
+    <Strona_internetowa>
+      <u>olimpiazambrow.net</u>
+    </Strona_internetowa>
+    <Rok_założenia>1953</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Olimpii Zambrów
+      </Nazwa_stadionu>
+      <Pojemność>
+        1 036
+      </Pojemność>
+      <Adres_stadionu>
+        kard. Stefana Wyszyńskiego 8
+        18-300 Zambrów
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="9">
+    <Nazwa_klubu>Polonia</Nazwa_klubu>
+    <Miasto>Bytom</Miasto>
+    <Adres>
+      Rynek 19
+      41-902 Bytom
+    </Adres>
+    <Strona_internetowa>
+      <u>poloniabytom.com.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1945</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion im. Edwarda Szymkowiaka
+      </Nazwa_stadionu>
+      <Pojemność>
+        5 500
+      </Pojemność>
+      <Adres_stadionu>
+        Olimpijska 2
+        41-902 Bytom
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="10">
+    <Nazwa_klubu>Polonia</Nazwa_klubu>
+    <Miasto>Warszawa</Miasto>
+    <Adres>
+      Konwiktorska 6
+      00-206 Warszawa
+    </Adres>
+    <Strona_internetowa>
+      <u>www.kspolonia.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1911</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Polonii im. gen. Kazimierza Sosnkowskiego
+      </Nazwa_stadionu>
+      <Pojemność>
+        7 152
+      </Pojemność>
+      <Adres_stadionu>
+        Konwiktorska 6
+        00-206 Warszawa
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="11">
+    <Nazwa_klubu>Puszcza</Nazwa_klubu>
+    <Miasto>Niepołomice</Miasto>
+    <Adres>
+      Janusza Kusocińskiego 2
+      32-005 Niepołomice
+    </Adres>
+    <Strona_internetowa>
+      <u>www.puszcza-niepolomice.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1923</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Niepołomicach
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 118
+      </Pojemność>
+      <Adres_stadionu>
+        Janusza Kusocińskiego 2
+        32-005 Niepołomice
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="12">
+    <Nazwa_klubu>Radomiak</Nazwa_klubu>
+    <Miasto>Radom</Miasto>
+    <Adres>
+      Andrzeja Struga 63
+      26-600 Radom
+    </Adres>
+    <Strona_internetowa>
+      <u>www.radomiak.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1910</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Lekkoatletyczno-Piłkarski
+        im. Marszałka Józefa Piłsudskiego
+      </Nazwa_stadionu>
+      <Pojemność>
+        4 066
+      </Pojemność>
+      <Adres_stadionu>
+        Gabriela Narutowicza 9
+        26-600 Radom
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="13">
+    <Nazwa_klubu>Raków</Nazwa_klubu>
+    <Miasto>Częstochowa</Miasto>
+    <Adres>
+      Bolesława Limanowskiego 83
+      42-208 Częstochowa
+    </Adres>
+    <Strona_internetowa>
+      <u>www.rksrakow.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1921</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Miejski Stadion Piłkarski Raków
+      </Nazwa_stadionu>
+      <Pojemność>
+        8 000
+      </Pojemność>
+      <Adres_stadionu>
+        Bolesława Limanowskiego 83
+        42-208 Częstochowa
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="14">
+    <Nazwa_klubu>ROW 1964</Nazwa_klubu>
+    <Miasto>Rybnik</Miasto>
+    <Adres>
+      Gliwicka 72
+      44-200 Rybnik
+    </Adres>
+    <Strona_internetowa>
+      <u>row1964rybnik.com</u>
+    </Strona_internetowa>
+    <Rok_założenia>1964</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion MOSiR w Rybniku
+      </Nazwa_stadionu>
+      <Pojemność>
+        10 304
+      </Pojemność>
+      <Adres_stadionu>
+        Gliwicka 72
+        44-200 Rybnik
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="15">
+    <Nazwa_klubu>Rozwój</Nazwa_klubu>
+    <Miasto>Katowice</Miasto>
+    <Adres>
+      Zgody 28
+      40-573 Katowice
+    </Adres>
+    <Strona_internetowa>
+      <u>rozwoj.info.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1925</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Rozwoju Katowice
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 472
+      </Pojemność>
+      <Adres_stadionu>
+        Zgody 28
+        40-573 Katowice
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="16">
+    <Nazwa_klubu>Siarka</Nazwa_klubu>
+    <Miasto>Tarnobrzeg</Miasto>
+    <Adres>
+      Aleja Niepodległości 2
+      39-400 Tarnobrzeg
+    </Adres>
+    <Strona_internetowa>
+      <u>www.siarka-tarnobrzeg.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1957</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Miejski w Tarnobrzegu
+      </Nazwa_stadionu>
+      <Pojemność>
+        3 676
+      </Pojemność>
+      <Adres_stadionu>
+        Aleja Niepodległości 2
+        39-400 Tarnobrzeg
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="17">
+    <Nazwa_klubu>Stal</Nazwa_klubu>
+    <Miasto>Stalowa Wola</Miasto>
+    <Adres>
+      Hutnicza 17
+      37-450 Stalowa Wola
+    </Adres>
+    <Strona_internetowa>
+      <u>www.stal1938.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1938</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion MOSiR w Stalowej Woli
+      </Nazwa_stadionu>
+      <Pojemność>
+        2 937
+      </Pojemność>
+      <Adres_stadionu>
+        Hutnicza 15
+        37-450 Stalowa Wola
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+  <Klub ID="18">
+    <Nazwa_klubu>Warta</Nazwa_klubu>
+    <Miasto>Poznań</Miasto>
+    <Adres>
+      Droga Dębińska 12
+      61-555 Poznań
+    </Adres>
+    <Strona_internetowa>
+      <u>www.wartapoznansa.pl</u>
+    </Strona_internetowa>
+    <Rok_założenia>1912</Rok_założenia>
+    <Stadion>
+      <Nazwa_stadionu>
+        Stadion Warty Poznań
+      </Nazwa_stadionu>
+      <Pojemność>
+        4 694
+      </Pojemność>
+      <Adres_stadionu>
+        Droga Dębińska 12
+        61-555 Poznań
+      </Adres_stadionu>
+    </Stadion>
+  </Klub>
+</ListaKlubow>
