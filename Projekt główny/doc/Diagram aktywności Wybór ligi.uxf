@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="14.2">
-  <zoom_level>9</zoom_level>
+  <zoom_level>8</zoom_level>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>711</x>
-      <y>54</y>
-      <w>90</w>
-      <h>27</h>
+      <x>672</x>
+      <y>8</y>
+      <w>80</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Wybór ligi</panel_attributes>
     <additional_attributes/>
@@ -15,10 +15,10 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>135</x>
-      <y>99</y>
-      <w>333</w>
-      <h>495</h>
+      <x>160</x>
+      <y>48</y>
+      <w>296</w>
+      <h>576</h>
     </coordinates>
     <panel_attributes>Interfejs graficzny
 --</panel_attributes>
@@ -27,10 +27,10 @@
   <element>
     <id>UMLInterface</id>
     <coordinates>
-      <x>279</x>
-      <y>126</y>
-      <w>36</w>
-      <h>63</h>
+      <x>288</x>
+      <y>72</y>
+      <w>32</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>Start
 layer=1</panel_attributes>
@@ -39,10 +39,10 @@ layer=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>468</x>
-      <y>99</y>
-      <w>333</w>
-      <h>495</h>
+      <x>456</x>
+      <y>48</y>
+      <w>296</w>
+      <h>576</h>
     </coordinates>
     <panel_attributes>Wybór ligi
 --
@@ -52,10 +52,10 @@ layer=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>144</y>
-      <w>27</w>
-      <h>72</h>
+      <x>296</x>
+      <y>88</y>
+      <w>24</w>
+      <h>64</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
@@ -63,10 +63,10 @@ layer=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>234</x>
-      <y>198</y>
-      <w>135</w>
-      <h>36</h>
+      <x>248</x>
+      <y>136</y>
+      <w>120</w>
+      <h>32</h>
     </coordinates>
     <panel_attributes>Przejdź do strony
 głównej
@@ -77,10 +77,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>234</x>
-      <y>288</y>
-      <w>135</w>
-      <h>27</h>
+      <x>248</x>
+      <y>216</y>
+      <w>120</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Wybierz ligę
 bg=magenta</panel_attributes>
@@ -89,10 +89,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>225</y>
-      <w>27</w>
-      <h>81</h>
+      <x>296</x>
+      <y>160</y>
+      <w>24</w>
+      <h>72</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
@@ -100,10 +100,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>234</x>
-      <y>405</y>
-      <w>135</w>
-      <h>54</h>
+      <x>248</x>
+      <y>288</y>
+      <w>120</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>Powodzenie -
 przejście do strony
@@ -114,22 +114,22 @@ bg=magenta</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>333</y>
-      <w>342</w>
-      <h>90</h>
+      <x>296</x>
+      <y>256</y>
+      <w>304</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=Wybór poprawny</panel_attributes>
-    <additional_attributes>10.0;80.0;10.0;10.0;360.0;10.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0;360.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>558</x>
-      <y>288</y>
-      <w>135</w>
-      <h>27</h>
+      <x>536</x>
+      <y>216</y>
+      <w>120</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Wybierz ligę
 bg=magenta</panel_attributes>
@@ -138,10 +138,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
-      <y>306</y>
-      <w>27</w>
-      <h>63</h>
+      <x>584</x>
+      <y>232</y>
+      <w>24</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
@@ -150,9 +150,9 @@ bg=magenta</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>360</x>
-      <y>288</y>
-      <w>216</w>
-      <h>27</h>
+      <y>216</y>
+      <w>192</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>220.0;10.0;10.0;10.0</additional_attributes>
@@ -160,10 +160,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>UMLInterface</id>
     <coordinates>
-      <x>603</x>
-      <y>468</y>
-      <w>36</w>
-      <h>63</h>
+      <x>576</x>
+      <y>352</y>
+      <w>32</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>Błąd</panel_attributes>
     <additional_attributes/>
@@ -171,10 +171,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>603</x>
-      <y>468</y>
-      <w>45</w>
-      <h>45</h>
+      <x>576</x>
+      <y>352</y>
+      <w>40</w>
+      <h>40</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;30.0;30.0</additional_attributes>
@@ -182,10 +182,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>603</x>
-      <y>468</y>
-      <w>45</w>
-      <h>45</h>
+      <x>576</x>
+      <y>352</y>
+      <w>40</w>
+      <h>40</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes>30.0;10.0;10.0;30.0</additional_attributes>
@@ -193,10 +193,10 @@ bg=magenta</panel_attributes>
   <element>
     <id>UMLInterface</id>
     <coordinates>
-      <x>270</x>
-      <y>477</y>
-      <w>54</w>
-      <h>63</h>
+      <x>280</x>
+      <y>344</y>
+      <w>48</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>bg=black
 Koniec</panel_attributes>
@@ -205,21 +205,21 @@ Koniec</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>450</y>
-      <w>27</w>
-      <h>54</h>
+      <x>296</x>
+      <y>328</y>
+      <w>24</w>
+      <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
-      <y>342</y>
-      <w>27</w>
-      <h>63</h>
+      <x>584</x>
+      <y>264</y>
+      <w>24</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
@@ -227,25 +227,166 @@ Koniec</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>612</x>
-      <y>378</y>
-      <w>117</w>
-      <h>117</h>
+      <x>584</x>
+      <y>328</y>
+      <w>104</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=Błąd połączenia</panel_attributes>
-    <additional_attributes>10.0;110.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
-      <y>243</y>
-      <w>468</w>
-      <h>153</h>
+      <x>296</x>
+      <y>176</y>
+      <w>416</w>
+      <h>168</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=Brak wyboru ligi</panel_attributes>
-    <additional_attributes>10.0;10.0;500.0;10.0;500.0;150.0;370.0;150.0</additional_attributes>
+    <additional_attributes>10.0;10.0;500.0;10.0;500.0;190.0;380.0;190.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>584</x>
+      <y>296</y>
+      <w>24</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>296</x>
+      <y>288</y>
+      <w>312</w>
+      <h>168</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=Wybór 3 ligi</panel_attributes>
+    <additional_attributes>10.0;190.0;10.0;130.0;130.0;130.0;130.0;10.0;370.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>248</x>
+      <y>440</y>
+      <w>120</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Wybierz grupę 3 ligi
+bg=magenta</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>248</x>
+      <y>504</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>Powodzenie -
+przejście do strony
+o wybranej grupie 3 ligi
+bg=magenta</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>296</x>
+      <y>472</y>
+      <w>304</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=Wybór poprawny</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0;360.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>536</x>
+      <y>440</y>
+      <w>120</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Wybierz grupę
+bg=magenta</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>584</x>
+      <y>456</y>
+      <w>24</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>360</x>
+      <y>440</y>
+      <w>192</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>220.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>208</x>
+      <y>352</y>
+      <w>112</w>
+      <h>232</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>110.0;10.0;10.0;10.0;10.0;270.0;120.0;270.0;120.0;250.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>584</x>
+      <y>360</y>
+      <w>160</w>
+      <h>216</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=Błąd połączenia</panel_attributes>
+    <additional_attributes>20.0;10.0;180.0;10.0;180.0;250.0;10.0;250.0;10.0;210.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>584</x>
+      <y>480</y>
+      <w>24</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>296</x>
+      <y>392</y>
+      <w>416</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=Brak wyboru grupy</panel_attributes>
+    <additional_attributes>10.0;10.0;500.0;10.0;500.0;160.0;370.0;160.0</additional_attributes>
   </element>
 </diagram>
